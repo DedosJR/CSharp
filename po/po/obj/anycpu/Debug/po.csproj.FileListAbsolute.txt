@@ -1,0 +1,12 @@
+/Users/Dedosjr/Projects/po/po/bin/Debug/po.exe
+/Users/Dedosjr/Projects/po/po/bin/Debug/po.pdb
+/Users/Dedosjr/Projects/po/po/obj/anycpu/Debug/po.csproj.AssemblyReference.cache
+/Users/Dedosjr/Projects/po/po/obj/anycpu/Debug/po.csproj.CoreCompileInputs.cache
+/Users/Dedosjr/Projects/po/po/obj/anycpu/Debug/po.exe
+/Users/Dedosjr/Projects/po/po/obj/anycpu/Debug/po.pdb
+/Users/Dedosjr/Documents/Programacion II/po/po/bin/Debug/po.exe
+/Users/Dedosjr/Documents/Programacion II/po/po/bin/Debug/po.pdb
+/Users/Dedosjr/Documents/Programacion II/po/po/obj/anycpu/Debug/po.csproj.AssemblyReference.cache
+/Users/Dedosjr/Documents/Programacion II/po/po/obj/anycpu/Debug/po.csproj.CoreCompileInputs.cache
+/Users/Dedosjr/Documents/Programacion II/po/po/obj/anycpu/Debug/po.exe
+/Users/Dedosjr/Documents/Programacion II/po/po/obj/anycpu/Debug/po.pdb

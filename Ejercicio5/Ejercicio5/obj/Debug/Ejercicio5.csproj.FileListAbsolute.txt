@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\Programacion II\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+\\Mac\Home\Documents\Programacion II\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe
+\\Mac\Home\Documents\Programacion II\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.pdb
+\\Mac\Home\Documents\Programacion II\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Programacion II\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Documents\Programacion II\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.Form1.resources
+\\Mac\Home\Documents\Programacion II\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.Properties.Resources.resources
+\\Mac\Home\Documents\Programacion II\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Programacion II\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Programacion II\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.exe
+\\Mac\Home\Documents\Programacion II\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.pdb

@@ -1,0 +1,6 @@
+/Users/Dedosjr/Documents/Programacion II/Ejemplo/Ejemplo/bin/Debug/Ejemplo.exe
+/Users/Dedosjr/Documents/Programacion II/Ejemplo/Ejemplo/bin/Debug/Ejemplo.pdb
+/Users/Dedosjr/Documents/Programacion II/Ejemplo/Ejemplo/obj/anycpu/Debug/Ejemplo.csproj.AssemblyReference.cache
+/Users/Dedosjr/Documents/Programacion II/Ejemplo/Ejemplo/obj/anycpu/Debug/Ejemplo.csproj.CoreCompileInputs.cache
+/Users/Dedosjr/Documents/Programacion II/Ejemplo/Ejemplo/obj/anycpu/Debug/Ejemplo.exe
+/Users/Dedosjr/Documents/Programacion II/Ejemplo/Ejemplo/obj/anycpu/Debug/Ejemplo.pdb

@@ -1,0 +1,21 @@
+C:/Users/Dedosjr/source/repos/WindowsFormsApp1/WindowsFormsApp1/bin/Debug/WindowsFormsApp1.exe.config
+C:/Users/Dedosjr/source/repos/WindowsFormsApp1/WindowsFormsApp1/bin/Debug/WindowsFormsApp1.exe
+C:/Users/Dedosjr/source/repos/WindowsFormsApp1/WindowsFormsApp1/bin/Debug/WindowsFormsApp1.pdb
+C:/Users/Dedosjr/source/repos/WindowsFormsApp1/WindowsFormsApp1/obj/Debug/WindowsFormsApp1.csproj.AssemblyReference.cache
+C:/Users/Dedosjr/source/repos/WindowsFormsApp1/WindowsFormsApp1/obj/Debug/WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:/Users/Dedosjr/source/repos/WindowsFormsApp1/WindowsFormsApp1/obj/Debug/WindowsFormsApp1.Form1.resources
+C:/Users/Dedosjr/source/repos/WindowsFormsApp1/WindowsFormsApp1/obj/Debug/WindowsFormsApp1.Properties.Resources.resources
+C:/Users/Dedosjr/source/repos/WindowsFormsApp1/WindowsFormsApp1/obj/Debug/WindowsFormsApp1.csproj.GenerateResource.cache
+C:/Users/Dedosjr/source/repos/WindowsFormsApp1/WindowsFormsApp1/obj/Debug/WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:/Users/Dedosjr/source/repos/WindowsFormsApp1/WindowsFormsApp1/obj/Debug/WindowsFormsApp1.exe
+C:/Users/Dedosjr/source/repos/WindowsFormsApp1/WindowsFormsApp1/obj/Debug/WindowsFormsApp1.pdb
+/Users/Dedosjr/Documents/Programacion II/Nomina/WindowsFormsApp1/bin/Debug/WindowsFormsApp1.exe.config
+/Users/Dedosjr/Documents/Programacion II/Nomina/WindowsFormsApp1/bin/Debug/WindowsFormsApp1.exe
+/Users/Dedosjr/Documents/Programacion II/Nomina/WindowsFormsApp1/bin/Debug/WindowsFormsApp1.pdb
+/Users/Dedosjr/Documents/Programacion II/Nomina/WindowsFormsApp1/obj/Debug/WindowsFormsApp1.csproj.AssemblyReference.cache
+/Users/Dedosjr/Documents/Programacion II/Nomina/WindowsFormsApp1/obj/Debug/WindowsFormsApp1.Form1.resources
+/Users/Dedosjr/Documents/Programacion II/Nomina/WindowsFormsApp1/obj/Debug/WindowsFormsApp1.Properties.Resources.resources
+/Users/Dedosjr/Documents/Programacion II/Nomina/WindowsFormsApp1/obj/Debug/WindowsFormsApp1.csproj.GenerateResource.cache
+/Users/Dedosjr/Documents/Programacion II/Nomina/WindowsFormsApp1/obj/Debug/WindowsFormsApp1.csproj.CoreCompileInputs.cache
+/Users/Dedosjr/Documents/Programacion II/Nomina/WindowsFormsApp1/obj/Debug/WindowsFormsApp1.exe
+/Users/Dedosjr/Documents/Programacion II/Nomina/WindowsFormsApp1/obj/Debug/WindowsFormsApp1.pdb

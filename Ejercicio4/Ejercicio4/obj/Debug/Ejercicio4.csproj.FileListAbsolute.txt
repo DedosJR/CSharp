@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\Programacion II\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Programacion II\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Documents\Programacion II\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.Form1.resources
+\\Mac\Home\Documents\Programacion II\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.Properties.Resources.resources
+\\Mac\Home\Documents\Programacion II\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Programacion II\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Programacion II\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+\\Mac\Home\Documents\Programacion II\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+\\Mac\Home\Documents\Programacion II\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+\\Mac\Home\Documents\Programacion II\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+\\Mac\Home\Documents\Programacion II\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb

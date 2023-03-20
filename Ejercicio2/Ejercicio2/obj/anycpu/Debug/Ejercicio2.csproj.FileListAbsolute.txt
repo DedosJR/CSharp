@@ -1,0 +1,6 @@
+/Users/Dedosjr/Documents/Programacion II/Ejercicio2/Ejercicio2/bin/Debug/Ejercicio2.exe
+/Users/Dedosjr/Documents/Programacion II/Ejercicio2/Ejercicio2/bin/Debug/Ejercicio2.pdb
+/Users/Dedosjr/Documents/Programacion II/Ejercicio2/Ejercicio2/obj/anycpu/Debug/Ejercicio2.csproj.AssemblyReference.cache
+/Users/Dedosjr/Documents/Programacion II/Ejercicio2/Ejercicio2/obj/anycpu/Debug/Ejercicio2.csproj.CoreCompileInputs.cache
+/Users/Dedosjr/Documents/Programacion II/Ejercicio2/Ejercicio2/obj/anycpu/Debug/Ejercicio2.exe
+/Users/Dedosjr/Documents/Programacion II/Ejercicio2/Ejercicio2/obj/anycpu/Debug/Ejercicio2.pdb
